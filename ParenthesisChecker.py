@@ -1,4 +1,4 @@
-/*
+# 
 Given an expression string exp. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
 For example, the program should print 'balanced' for exp = “[()]{}{[()()]()}” and 'not balanced' for exp = “[(])”
 
@@ -25,7 +25,7 @@ balanced
 not balanced
 
 ** For More Input/Output Examples Use 'Expected Output' option **
-*/
+# 
 
 
 
